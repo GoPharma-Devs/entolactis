@@ -287,6 +287,9 @@ nav {
   justify-content: center;
   box-sizing: content-box;
   min-height: 90px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
   .contenedor-nav {
     max-width: 1080px;
     display: flex;
