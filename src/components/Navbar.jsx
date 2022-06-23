@@ -9,8 +9,10 @@ function Navbar() {
           <img src={entolactis } alt="" /></div>
         <div className="menu">
           <ul>
-            <li><FaHome/></li>
+            <li><FaHome /></li>
+          
             <li>SALUD INTESTINAL</li>
+          <li>Protege lo bueno en ti</li>
             <li>LACTOBACILLUS CASEI DG </li>
             <li>Blog</li>
           
