@@ -50,8 +50,9 @@ function App() {
           <div className='salud-intestinal-grid'>
             <div className='salud-intestinal-el'>
               <img src={ListCheck} alt='icon' />
-              <p>¿Qué se necesita para un 
-correcto funcionamiento intestinal?</p>
+              <p>
+                ¿Qué se necesita para un correcto funcionamiento intestinal?
+              </p>
             </div>
             <div className='salud-intestinal-el'>
               <img src={ListCheck} alt='icon' />
@@ -59,11 +60,15 @@ correcto funcionamiento intestinal?</p>
             </div>
             <div className='salud-intestinal-el'>
               <img src={ListCheck} alt='icon' />
-              <p>¿Qué papel desempeña en nuestra salud la microbiota intestinal?</p>
+              <p>
+                ¿Qué papel desempeña en nuestra salud la microbiota intestinal?
+              </p>
             </div>
             <div className='salud-intestinal-el'>
               <img src={ListCheck} alt='icon' />
-              <p>¿Sabes cuáles son los beneficios de tener una microbiota sana?</p>
+              <p>
+                ¿Sabes cuáles son los beneficios de tener una microbiota sana?
+              </p>
             </div>
             <div className='salud-intestinal-el'>
               <img src={ListCheck} alt='icon' />
